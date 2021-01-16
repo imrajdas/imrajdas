@@ -10,6 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@2.0.5
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+      - name: Compress images
+        uses: calibreapp/image-actions@master
+        with:
+          githubToken: ${{ secrets.JEKYLL_PAT }}
+          jpegQuality: "80"
+          pngQuality: "80"
+          webpQuality: "80"
+          ignorePaths: "node_modules/**,_site"
