@@ -1,6 +1,6 @@
 # Raj Babu Das
 
-- [LitmusChaos](https://github.com/litmuschaos) core team member
+- Project Maintainer of [LitmusChaos](https://github.com/litmuschaos) (A CNCF project)
 - Member of CNCF Speakers Bureau- https://www.cncf.io/speaker/rajdas98/
 - Certified Kubernetes Administrator
 - Contributor to Prometheus, Kyverno, Keptn & SigNoz
