@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Summber Of Code 2020 Report
+title: Google Summer Of Code 2020 Report
 ---
 
 Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contributions/work can be viewed at  <a href="https://github.com/prometheus/test-infra">prometheus/test-infra</a> and <a href="https://prombench.prometheus.io">prombench.prometheus.io</a>. Also I will be continuing my contributions after the GSoC period
