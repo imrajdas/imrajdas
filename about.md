@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I’m building software at MayaData. In the past, I worked on a wide range of technologies with many startups. I am having 3+ years of hands-on experience on different cloud technologies like Serverless, Kubernetes, Prometheus and many more.
+I’m building software at MayaData. In the past, I worked on a wide range of technologies with many startups. I am having good amount of hands-on experience on different cloud technologies like Serverless, Kubernetes, Prometheus and many more.
 
 ### Open Source Contributions
  * [LitmusChaos](https://github.com/litmuschaos/litmus) - Cloud Native Chaos Engineering Project
