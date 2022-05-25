@@ -1,8 +1,5 @@
 # Raj Babu Das
 
-- Project Maintainer of [LitmusChaos](https://github.com/litmuschaos) (A CNCF project)
-- Certified Kubernetes Administrator
-- Contributor to LitmusChaos, Prometheus, Kyverno, Keptn & SigNoz
-- Google Summer of Code 2020 mentee for CNCF's Prometheus Project
-- Linux Foundation Mentorship 2021 mentee for CNCF's Keptn Project
-- Google Summer of Code 2021 mentor for CNCF's LitmusChaos Project
+Hi 👋, I'm a Senior Software engineer and an open-source contributor/maintainer. I graduated as a mentee from Google Summer of Code 2020 (under CNCF) and Linux Foundation Mentorship 2021 (under CNCF). I hold a certification of [CKA(Certified Kubernetes Administrator)](https://www.credly.com/badges/85977f91-8f81-4a0c-bf84-9b56eeac561d/linked_in_profile)
+
+Throughout my open source journey, I have contributed to various projects like Prometheus, [Kyverno](https://github.com/kyverno/kyverno), [Keptn](https://github.com/keptn-contrib/prometheus-service), [SigNoz](https://github.com/signoz/signoz) and [LitmusChaos](https://github.com/signoz/signoz). 
