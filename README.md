@@ -10,5 +10,3 @@
 **OpenSource Designation(s)**: 
   * Project Maintainer of [LitmusChaos](https://github.com/litmuschaos/litmus)
 
-
-![View Counter](https://komarev.com/ghpvc/?username=rajdas98)
