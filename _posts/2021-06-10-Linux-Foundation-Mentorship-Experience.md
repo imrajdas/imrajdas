@@ -2,18 +2,18 @@
 layout: post
 title: My experience with Linux Foundation Mentorship Program
 ---
+Greetings, I'm Raj Das, working as a Software Engineer at MayaData Inc. and also serve as a Core-Contributor to the <a href="https://litmuschaos.io/">LitmusChaos project</a>. Recently, I successfully graduated from the Linux Foundation Mentorship program with <a href="https://keptn.sh/">Keptn</a>. In this blog post, I intend to share my experiences as a mentee.
 
-Hello everyone 👋, I’m Raj Babu Das, working as a Software Engineer at MayaData Inc. and a Core-Contributor to the <a href="https://litmuschaos.io/">LitmusChaos project</a>. I have successfully graduated from the Linux Foundation Mentorship program with <a href="https://keptn.sh/">Keptn</a>. In this blog, I’m going to share my experience as a mentee.
 
-<img src="https://github.com/rajdas98/rajdas98/raw/main/images/lfx-1.png">
+<img src="https://github.com/imrajdas/imrajdas/raw/main/images/lfx-1.png">
 
 Linux Foundation Mentorship program is an initiative by the Linux Foundation to help developers with the necessary skills and encourage them to participate. This program held at the start of each quarter and taken part by many open source organizations like CNCF, OpenJS Foundation, etc. Any student or working professional can take part as a mentee where they have to work for a term of 3 months.
 
-<img src="https://github.com/rajdas98/rajdas98/raw/main/images/lfx-2.png"/>
+<img src="https://github.com/imrajdas/imrajdas/raw/main/images/lfx-2.png"/>
+I became aware of this program during my tenure as a GSoC student last year and have been keeping up with its latest updates ever since. As an active contributor to several CNCF projects, I decided to participate exclusively in the CNCF projects.
 
-I heard about this program while I was working as a GSoC student last year. Since then, I continuously followed all the updates for the program. As an active contributor to other CNCF projects, I planned to participate only in the CNCF projects. 
+Although I applied for the program last quarter, I was unfortunately not selected. Undeterred, I submitted a fresh application this year, this time for a CNCF sandbox project known as Keptn, and am pleased to announce that my application was accepted.
 
-Last quarter, I applied for this program but, I didn’t get through it. I thought to participate again this year for a CNCF sandbox project called Keptn, and finally, my application got accepted this time.
 
 >To apply, follow this link- https://mentorship.lfx.linuxfoundation.org/#projects
 
@@ -30,10 +30,9 @@ I heard about the Keptn project from my colleagues at MayaData where we have int
 Keptn have written the documentation and tutorials so nicely that any naïve user can easily understand it. I didn’t face any struggle while learning it.
 
 ### My Experience
-I really enjoyed working with my mentors Jürgen Etzlstorfer, Johannes Bräuer and Florian Bacher. We used to have weekly sync up calls where we discussed the project status and blockers.
-My primary task is to rewrite the keptn’s Prometheus service to make it independent of the Prometheus installation. I completed this task within a month, and I started working on an additional issue that is Adding keptn’s SLI service functionalities into keptn Prometheus service, which itself a big and complicated task for me. 
+I had a productive experience collaborating with my mentors Jürgen Etzlstorfer, Johannes Bräuer, and Florian Bacher during the mentorship program. We held weekly sync-up calls to discuss the project's progress and any obstacles encountered. My primary objective was to rewrite Keptn's Prometheus service to eliminate its dependence on the Prometheus installation. I accomplished this task within a month and proceeded to tackle another complex task of adding keptn’s SLI service functionalities into keptn Prometheus service.
 
-Finally, I was able to complete my remaining tasks within the mentorship period, and at last, I did the refactor of the Keptn’s documentation and tutorial regarding the code change.
+Throughout the mentorship program, I was able to complete my remaining tasks before the program concluded. Toward the end of the program, I refactored the documentation and tutorial regarding the code change in Keptn.
 
 >Major Pull Requests
 * https://github.com/keptn-contrib/prometheus-service/pull/117
@@ -46,11 +45,10 @@ After my PR(s) got merged. I got a chance to present my work to the Keptn commun
 <img src="https://github.com/rajdas98/rajdas98/raw/main/images/lfx-4.png"/>
 
 ### Conclusion
-I am glad that I got this opportunity to work with such a great Open Source project. Open source projects are the backbone of the FOSS culture, which promotes free and open-source software, encourages sharing and collaboration.
 
-LFX Mentorship is a great place for a student and a working professional to work on a project that motivates and exponentially increases the ability of a developer to work in a large team. I would strongly recommend it to anyone who has a passion for the open-source culture to apply for LFX Mentorship whenever they announced it.
+I am grateful to have had the opportunity to work with a remarkable open-source project and contribute to the FOSS culture. Participating in an open-source project not only benefits the community but also allows developers to gain valuable experience working in a collaborative environment.
 
+The LFX Mentorship program is an excellent platform for students and professionals to work on meaningful projects that foster personal and professional growth. Working on the Keptn project through the LFX Mentorship program enabled me to develop my skills in Go, Kubernetes, and Prometheus while contributing to a real-world use case.
 
-I want to thank my mentors Jürgen Etzlstorfer, Johannes Bräuer, Florian Bacher for the guidance provided during this program.
-
+I strongly recommend the LFX Mentorship program to anyone who is passionate about the open-source culture and wants to contribute to a project with a meaningful impact. Finally, I would like to express my sincere gratitude to my mentors, Jürgen Etzlstorfer, Johannes Bräuer, and Florian Bacher, for their invaluable guidance throughout the program.
 -x-
