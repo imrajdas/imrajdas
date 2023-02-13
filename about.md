@@ -4,19 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I’m building software at MayaData. In the past, I worked on a wide range of technologies with many startups. I am having good amount of hands-on experience on different cloud technologies like Serverless, Kubernetes, Prometheus and many more.
+Raj is a highly experienced Senior Software Engineer working for a successful Unicorn Startup. He has a proven track record of excellence, having completed Google Summer of Code (Prometheus) and Linux Foundation Mentorship Programme (Keptn) as a mentee and is currently a maintainer of LitmusChaos. In addition to this, he is an active contributor to other CNCF projects such as Kyverno and SigNoz.
 
-### Open Source Contributions
- * [LitmusChaos](https://github.com/litmuschaos/litmus) - Cloud Native Chaos Engineering Project
- * [Prometheus](https://github.com/prometheus/prometheus) - A Time Series DataBase Project
- * few more...
 
-### Some Small Achievements
+Raj is a developer by day & SRE at night - he loves to build resilient systems. An advocate of cloud-native best practices, he has spoken in several meetups in and around Bangalore
 
- * GSoC (Google Summer of Code) Mentee at CNCF -- 2020
- * Certified Kubernetes Administrator -- 2020
- * Smart India Hackathon Winner -- 2019
- 
-### Contact me
-
-[mail.rajdas@gmail.com](mailto:mail.rajdas@gmail.com)
+His technical contributions towards Linux Foundation: https://openprofile.dev/profile/rajdas98
