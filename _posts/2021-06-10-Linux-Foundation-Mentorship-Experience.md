@@ -24,10 +24,9 @@ Keptn is a control-plane for DevOps automation of cloud-native applications. In 
 * Automated Multi-Stage and Multi-Target Delivery
 * Automated Auto-Remediation
 
-<img src="https://github.com/rajdas98/rajdas98/raw/main/images/lfx-3.png"/>
+<img src="https://github.com/imrajdas/imrajdas/raw/main/images/lfx-3.png"/>
 
-I heard about the Keptn project from my colleagues at MayaData where we have integrated Keptn with another CNCF project called LitmusChaos. When the keptn project announced their participation for this issue- <a href="https://mentorship.lfx.linuxfoundation.org/project/54adaade-8537-4150-b4ea-988454615ed7">Improve Prometheus integration and exposure of Prometheus metrics</a>, I got excited because I know the core skills required for it i.e. Golang, Kubernetes and Prometheus. Immediately, I started learning about this project, and after a few weeks, I finally got selected for this program.
-Keptn have written the documentation and tutorials so nicely that any naïve user can easily understand it. I didn’t face any struggle while learning it.
+I heard about the Keptn project from my colleagues at MayaData where we have integrated Keptn with another CNCF project called LitmusChaos. When the keptn announced their participation for this issue- <a href="https://mentorship.lfx.linuxfoundation.org/project/54adaade-8537-4150-b4ea-988454615ed7">Improve Prometheus integration and exposure of Prometheus metrics</a>, I became thrilled as I possessed the necessary core skills, including Golang, Kubernetes, and Prometheus. Following the announcement, I spent several weeks researching the project and was ultimately accepted into the program. I found that Keptn's documentation and tutorials were written in an easily understandable manner, making the learning process seamless and without obstacles.
 
 ### My Experience
 I had a productive experience collaborating with my mentors Jürgen Etzlstorfer, Johannes Bräuer, and Florian Bacher during the mentorship program. We held weekly sync-up calls to discuss the project's progress and any obstacles encountered. My primary objective was to rewrite Keptn's Prometheus service to eliminate its dependence on the Prometheus installation. I accomplished this task within a month and proceeded to tackle another complex task of adding keptn’s SLI service functionalities into keptn Prometheus service.
@@ -41,8 +40,9 @@ Throughout the mentorship program, I was able to complete my remaining tasks bef
 > A few more PRs got merged for docs, tutorials, and bug fixes, along with the above pull requests.
 
 ### Community
-After my PR(s) got merged. I got a chance to present my work to the Keptn community. You can find the demo here- Keptn Community & Developer Meeting — June 10th, 2021
-<img src="https://github.com/rajdas98/rajdas98/raw/main/images/lfx-4.png"/>
+Upon the successful merging of my pull request(s), I was presented with the opportunity to showcase my work to the Keptn community. The demo of my contributions can be found on the Keptn Community & Developer Meeting — June 10th, 2021
+
+<img src="https://github.com/imrajdas/imrajdas/raw/main/images/lfx-4.png"/>
 
 ### Conclusion
 
