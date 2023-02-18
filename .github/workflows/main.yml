@@ -19,6 +19,6 @@ jobs:
             ${{ runner.os }}-gems-
       - uses: helaili/jekyll-action@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }} # this secret will be automatically generated.
           jekyll_src: ./
           gem_src: ./
