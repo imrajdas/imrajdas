@@ -1,0 +1,14 @@
+baseURL: https://rajdas.in/
+languageCode: en-us
+title: Raj Das
+params:
+  BookSearch: true
+  BookToC: true
+  BookComments: false
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+module:
+  imports:
+    - path: github.com/alex-shpak/hugo-book

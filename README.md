@@ -1,7 +1,64 @@
-Raj is an accomplished Staff Software Engineer with over 5+ of experience, making significant strides at a leading Unicorn Startup. His journey in the tech industry is marked by a series of noteworthy contributions. Additionally, Raj plays a crucial role as a current maintainer of [LitmusChaos](https://github.com/litmuschaos/litmus), underlining his deep commitment to open-source projects.
+# rajdas.in
 
-Raj's contributions also extend to other CNCF projects, where he is an active contributor to [Prometheus](https://github.com/prometheus/test-infra), [Kyverno](https://github.com/kyverno/kyverno) and [SigNoz](https://github.com/signoz/signoz). Balancing roles as a developer by day and SRE by night, he is passionate about building resilient systems and fervently advocates for cloud-native best practices. Raj has shared his expertise at various international conferences, including KubeCon, engaging with the global tech community.
+Personal portfolio and digital garden built with Hugo and the hugo-book theme.
 
-For a detailed overview of his technical contributions to the Linux Foundation and his professional journey, visit his profile at [OpenProfile](https://openprofile.dev/profile/rajdas98).
+## Tech Stack
 
---x--
+- **Hugo** - Static site generator
+- **hugo-book** - Clean, documentation-style theme
+- **Markdown** - Content format
+- **SCSS** - Custom styling
+
+## Development
+
+### Prerequisites
+
+- Hugo Extended (v0.155.0 or later)
+- Go (for Hugo modules)
+
+### Local Development
+
+```bash
+# Start the development server
+hugo server -D
+
+# Build for production
+hugo --minify
+```
+
+The site will be available at `http://localhost:1313`
+
+## Project Structure
+
+```
+imrajdas/
+├── content/           # Markdown content
+│   ├── _index.md     # Homepage
+│   └── docs/         # Main content sections
+│       ├── about.md
+│       ├── now.md
+│       ├── projects/
+│       ├── blog/
+│       └── uses.md
+├── assets/           # Custom styles
+├── .github/          # GitHub Actions workflows
+├── hugo.yaml         # Hugo configuration
+└── go.mod           # Hugo modules
+```
+
+## Deployment
+
+This site can be deployed to:
+- Netlify
+- Vercel
+- GitHub Pages
+- Any static hosting service
+
+## License
+
+Content: © Raj Das
+Code: MIT License
+
+## Inspiration
+
+Inspired by [geekodour.org](https://geekodour.org) and the digital garden movement.
