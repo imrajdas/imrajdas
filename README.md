@@ -1,64 +1,37 @@
 # rajdas.in
 
-Personal portfolio and digital garden built with Hugo and the hugo-book theme.
+## About Raj Das
 
-## Tech Stack
+Raj is an accomplished **Staff Software Engineer** with over **5+ years of experience**, making significant strides at a leading Unicorn Startup. His journey in the tech industry is marked by a series of noteworthy contributions to the cloud-native ecosystem.
 
-- **Hugo** - Static site generator
-- **hugo-book** - Clean, documentation-style theme
-- **Markdown** - Content format
-- **SCSS** - Custom styling
+### Open Source Contributions
 
-## Development
+- **Current Maintainer** of [LitmusChaos](https://litmuschaos.io/), demonstrating deep commitment to open-source projects
+- **Active Contributor** to CNCF projects including:
+  - [Prometheus](https://prometheus.io/)
+  - [Kyverno](https://kyverno.io/)
+  - [SigNoz](https://signoz.io/)
 
-### Prerequisites
+### Professional Focus
 
-- Hugo Extended (v0.155.0 or later)
-- Go (for Hugo modules)
+Balancing roles as a **developer by day** and **SRE by night**, Raj is passionate about building resilient systems and fervently advocates for cloud-native best practices.
 
-### Local Development
+### Speaking & Community
 
-```bash
-# Start the development server
-hugo server -D
+For a detailed overview of his technical contributions to the Linux Foundation and his professional journey, visit his profile at [OpenProfile](https://openprofile.dev/).
 
-# Build for production
-hugo --minify
-```
+---
 
-The site will be available at `http://localhost:1313`
+## Connect
 
-## Project Structure
+- **GitHub**: [@imrajdas](https://github.com/imrajdas)
+- **LinkedIn**: [Raj Das](https://linkedin.com/in/imrajdas)
+- **OpenProfile**: [View Full Profile](https://openprofile.dev/)
 
-```
-imrajdas/
-├── content/           # Markdown content
-│   ├── _index.md     # Homepage
-│   └── docs/         # Main content sections
-│       ├── about.md
-│       ├── now.md
-│       ├── projects/
-│       ├── blog/
-│       └── uses.md
-├── assets/           # Custom styles
-├── .github/          # GitHub Actions workflows
-├── hugo.yaml         # Hugo configuration
-└── go.mod           # Hugo modules
-```
+---
 
-## Deployment
+## About This Repository
 
-This site can be deployed to:
-- Netlify
-- Vercel
-- GitHub Pages
-- Any static hosting service
+This repository contains the source code for [rajdas.in](https://rajdas.in) - Raj's personal portfolio and digital garden built with Hugo.
 
-## License
-
-Content: © Raj Das
-Code: MIT License
-
-## Inspiration
-
-Inspired by [geekodour.org](https://geekodour.org) and the digital garden movement.
+For development setup and deployment instructions, see [DEV.md](DEV.md).
