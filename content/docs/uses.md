@@ -5,30 +5,33 @@ weight: 5
 
 # Uses
 
-Tools and setup I use daily.
+Tools and setup I use daily for engineering and open-source leadership.
 
 ## Hardware
 
-- **Laptop**: MacBook Pro
-- **Monitor**: None (using laptop screen only)
-- **Mouse**: None (using trackpad)
+- **Laptop**: MacBook Pro (M-Series)
+- **Display**: Built-in Liquid Retina XDR (Single-screen minimalist)
+- **Peripherals**: Using the built-in Force Touch trackpad and Magic Keyboard exclusively.
 
 ## Software
 
 ### Development
-- **Editors**: IntelliJ IDEA, VS Code
-- **Shell**: [Oh My Zsh](https://ohmyz.sh/)
+- **Editors**: [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Primary for Go/Backend), [VS Code](https://code.visualstudio.com/) (Lightweight editing/Markdown).
+- **Terminal**: macOS Terminal with [Oh My Zsh](https://ohmyz.sh/).
+- **API Tooling**: Postman.
+
+### DevOps & Cloud Native
+- **Orchestration**: Kubernetes & Docker.
+- **CLI Essentials**: `kubectl` (aliased to `k`), `helm`, `k9s` for cluster management.
+- **CI/CD**: Harness CI/CD (The "Eat your own dog food" approach).
+- **Infrastructure**: Terraform for provisioning.
 
 ### Productivity
-- **Notes & Documentation**: Notion
-- **Spreadsheets**: Google Sheets
-- **Documents**: Google Docs
-
-### DevOps Tools
-- **Container & Orchestration**: Docker, Kubernetes
-- **CI/CD**: Harness CI, Harness CD
-- **Artifact Management**: Harness Artifact Registry
+- **Second Brain**: [Notion](https://notion.so) for architecture notes and roadmap planning.
+- **Collaboration**: Google Docs & Google Sheets for technical specs and data tracking.
 
 ---
 
 *Inspired by [uses.tech](https://uses.tech)*
+
+*Last updated: February 2026*
