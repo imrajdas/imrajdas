@@ -9,34 +9,25 @@ Tools and setup I use daily.
 
 ## Hardware
 
-- **Laptop**: MacBook Pro / ThinkPad
-- **Monitor**: [Your Monitor]
-- **Keyboard**: [Your Keyboard]
-- **Mouse**: [Your Mouse]
+- **Laptop**: MacBook Pro
+- **Monitor**: None (using laptop screen only)
+- **Mouse**: None (using trackpad)
 
 ## Software
 
 ### Development
-- **Editor**: VS Code / Neovim
-- **Terminal**: iTerm2 / Alacritty
-- **Shell**: Zsh with Oh My Zsh
+- **Editors**: IntelliJ IDEA, VS Code
+- **Shell**: [Oh My Zsh](https://ohmyz.sh/)
 
 ### Productivity
-- **Notes**: Obsidian / Notion
-- **Task Management**: Todoist / Things
-- **Browser**: Firefox / Chrome
+- **Notes & Documentation**: Notion
+- **Spreadsheets**: Google Sheets
+- **Documents**: Google Docs
 
 ### DevOps Tools
-- **Container Runtime**: Docker
-- **Orchestration**: Kubernetes
-- **IaC**: Terraform
-- **CI/CD**: GitHub Actions / GitLab CI
-
-## Services
-
-- **Cloud**: AWS / GCP
-- **Hosting**: Vercel / Netlify
-- **Domain**: Namecheap / Cloudflare
+- **Container & Orchestration**: Docker, Kubernetes
+- **CI/CD**: Harness CI, Harness CD
+- **Artifact Management**: Harness Artifact Registry
 
 ---
 

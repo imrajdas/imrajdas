@@ -18,3 +18,5 @@ Thumbs.db
 # Hugo modules
 /go.sum
 /.hugo_build.lock
+
+GITHUB_PAGES_SETUP.md
