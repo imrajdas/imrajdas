@@ -1,5 +1,5 @@
 ---
-title: "Blog - Cloud Native, Chaos Engineering & Kubernetes Insights"
+title: Blog
 weight: 4
 bookCollapseSection: false
 description: "Technical blog by Raj Das covering cloud-native technologies, chaos engineering, Kubernetes, SRE practices, and open source development."
