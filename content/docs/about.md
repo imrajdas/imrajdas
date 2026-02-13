@@ -1,6 +1,8 @@
 ---
-title: About Me
+title: "About Raj Das - Staff Software Engineer & CNCF Ambassador"
 weight: 1
+description: "Learn about Raj Das, Staff Software Engineer at Harness, CNCF Ambassador, and LitmusChaos Maintainer. 5+ years of experience in Cloud Native, Kubernetes, and Chaos Engineering."
+keywords: ["Raj Das", "Staff Software Engineer", "Harness", "CNCF Ambassador", "LitmusChaos", "Cloud Native", "Kubernetes", "Chaos Engineering", "Go", "Backend Engineering"]
 ---
 
 # About Me

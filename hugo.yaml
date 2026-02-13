@@ -1,14 +1,32 @@
 baseURL: https://rajdas.in/
 languageCode: en-us
 title: Raj Das
+enableRobotsTXT: true
+enableGitInfo: true
+
 params:
   BookSearch: true
   BookToC: true
   BookComments: false
+  description: "Staff Software Engineer specializing in Cloud Native, Chaos Engineering, and AI-driven SRE. CNCF Ambassador and LitmusChaos Maintainer."
+  author: "Raj Das"
+  keywords: ["Raj Das", "Staff Software Engineer", "Cloud Native", "Kubernetes", "Chaos Engineering", "LitmusChaos", "CNCF", "Go", "SRE", "DevOps", "Harness"]
+  images: ["/og-image.png"]
+  
+  # Social
+  twitter: "imrajdas"
+  github: "imrajdas"
+  linkedin: "imrajdas"
+
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+
 markup:
   goldmark:
     renderer:
       unsafe: true
+
 module:
   imports:
     - path: github.com/alex-shpak/hugo-book

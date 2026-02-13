@@ -1,6 +1,8 @@
 ---
-title: Uses
+title: "Uses - Development Tools & Setup"
 weight: 5
+description: "Tools, software, and hardware setup used by Raj Das for cloud-native development, including MacBook Pro, IntelliJ IDEA, Kubernetes, Docker, and Harness CI/CD."
+keywords: ["Developer Setup", "MacBook Pro", "IntelliJ IDEA", "VS Code", "Kubernetes", "Docker", "Harness", "DevOps Tools", "Oh My Zsh"]
 ---
 
 # Uses

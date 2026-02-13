@@ -1,6 +1,8 @@
 ---
-title: Home
+title: "Raj Das - Staff Software Engineer | Cloud Native & Chaos Engineering"
 type: docs
+description: "Staff Software Engineer specializing in Cloud Native technologies, Chaos Engineering, and AI-driven SRE. CNCF Ambassador and LitmusChaos Maintainer with 5+ years of experience at Harness."
+keywords: ["Raj Das", "Staff Software Engineer", "Cloud Native", "Kubernetes", "Chaos Engineering", "LitmusChaos", "CNCF Ambassador", "Go Developer", "SRE", "DevOps"]
 ---
 
 # Raj Das
