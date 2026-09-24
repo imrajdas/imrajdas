@@ -1,7 +1,7 @@
 ---
 title: About
 weight: 1
-description: "Learn about Raj Das, Staff Software Engineer at Harness, CNCF Ambassador, and LitmusChaos Maintainer. 5+ years of experience in Cloud Native, Kubernetes, and Chaos Engineering."
+description: "Learn about Raj Das, Staff Software Engineer at Harness, CNCF Ambassador, and LitmusChaos Maintainer. 7+ years of experience in distributed systems, Kubernetes, and platform engineering."
 keywords: ["Raj Das", "Staff Software Engineer", "Harness", "CNCF Ambassador", "LitmusChaos", "Cloud Native", "Kubernetes", "Chaos Engineering", "Go", "Backend Engineering"]
 ---
 
@@ -11,48 +11,50 @@ Hey there! I'm Raj 👋
 
 ## Who Am I?
 
-I'm an **accomplished Staff Software Engineer** specializing in the cloud-native ecosystem. With over 5 years of experience—spanning from **Founding Engineer** at a startup to **Staff Lead** at Harness—I focus on building resilient, scalable backend architectures and driving the future of Chaos Engineering and AI-driven SRE.
+I'm a **Staff Software Engineer** specialising in distributed systems, Kubernetes, and platform engineering. Since July 2019 I've gone from a software engineering intern to **Founding Engineer**, and now lead **AI SRE** and platform work at Harness.
 
 ## Professional Experience
 
 ### Harness
 **Staff Software Engineer** | *May 2023 - Present*
 
-Leading the technical vision for **AI SRE (Incident Response)** and **Platform Engineering** initiatives. 
-* Architecting high-availability backend systems in **Go** and scalable infrastructure on **Kubernetes**.
-* Driving cross-team platform enablement and observability strategies to reduce MTTR across the Harness ecosystem.
-* Standardizing automation workflows using **Terraform, Helm, and Crossplane**.
+Leading core initiatives in the **AI SRE (Incident Management)** module and **Platform Engineering** at Harness.
+* Driving backend architecture in **Go** and scalable systems on **Kubernetes**.
+* Building automation with **Terraform** and **Helm**.
+* Focused on high-availability systems, observability, and cross-team platform enablement.
 
 **Senior Software Engineer** | *March 2022 - April 2023*
 
-* **Tech Lead** for the Chaos Engineering module integration; delivered the fastest module rollout in company history post-acquisition.
-* Promoted to Staff Engineer within 12 months following the successful technical transition of the ChaosNative acquisition.
-* Awarded **Best Performer** for two consecutive quarters for excellence in execution and system design.
+* Led and delivered the Chaos Engineering module integration into the Harness platform — the fastest module rollout post-acquisition in company history.
+* Technical lead for the ChaosNative acquisition transition; promoted to Staff Software Engineer within a year after delivering the Chaos module ahead of schedule.
+* Won the **Best Performer** award for two consecutive quarters.
 
 ### ChaosNative (Acquired by Harness Inc.)
-**Founding Engineer / Software Engineer** | *April 2021 - March 2022*
+**Founding Engineer** | *April 2021 - March 2022*
 
-* **Employee #1:** Built the initial microservices architecture in Go and established the DevOps culture from the ground up.
-* **Tech Lead** for the **LitmusChaos** open-source project, scaling the community and stabilizing the core engine for enterprise adoption.
+* Joined as the first engineering hire and bootstrapped the backend services and core platform from scratch.
+* Owned architecture, deployment, and infrastructure setup.
 
 ### MayaData (Acquired by DataCore Software)
-**Software Engineer** | *August 2019 - April 2021* | Bengaluru, India
+**Software Engineer** | *May 2020 - April 2021* | Bengaluru, India
 
-* Contributed to the **OpenEBS** ecosystem, focusing on Kubernetes-native storage solutions and data management.
+* Contributed to backend microservices in **Go** for cloud-native data and chaos engineering platforms, covering feature development, bug fixes, and code reviews.
+
+**Software Engineering Intern** | *July 2019 - April 2020* | Bengaluru, India
 
 ## Open Source Leadership
 
 I am a fervent advocate for the "Cloud Native Way" and contribute to the projects that power the modern web.
 
-* **CNCF Ambassador** (2024–2025): Recognized by The Linux Foundation for leadership in the cloud-native community.
-* **Maintainer/Lead** of [LitmusChaos](https://litmuschaos.io/): Helping SREs globally build resilience (5.2k+ Stars).
+* **CNCF Ambassador**: Recognized by The Linux Foundation for leadership in the cloud-native community.
+* **Maintainer/Lead** of [LitmusChaos](https://litmuschaos.io/): Helping SREs globally build resilience (5.4k+ Stars).
 * **Active Contributor**: Prometheus (Monitoring), Kyverno (Policy), and SigNoz (Observability).
 
 ## Mentorship
 
-* **LFX Mentor** (2021): Led contributors for the LitmusChaos Project under the Linux Foundation.
+* **[LFX Mentor](https://mentorship.lfx.linuxfoundation.org/project/54adaade-8537-4150-b4ea-988454615ed7)** (2021): Led contributors for the LitmusChaos Project under the Linux Foundation.
 * **GSoC Mentor** (2021): Guided developers through CNCF's LitmusChaos project.
-* **GSoC Contributor** (2020): Contributed to **Prometheus** (Monitoring and Alerting).
+* **[GSoC Contributor](https://summerofcode.withgoogle.com/archive/2020/projects/4546170073907200)** (2020): Contributed to **Prometheus** (Monitoring and Alerting).
 
 ## Key Projects
 
@@ -60,11 +62,15 @@ I am a fervent advocate for the "Cloud Native Way" and contribute to the project
 * **[respondnow](https://github.com/respondnow/respondnow)** - Open-source Incident Management purpose-built for K8s.
 * **[diffr](https://github.com/imrajdas/diffr)** - A high-performance web tool for directory and file comparisons.
 
+## Education
+
+* **Bachelor of Technology (BTech), Computer Science and Engineering** — [Kalinga Institute of Industrial Technology](https://kiit.ac.in/), Bhubaneswar
+
 ## Skills & Technologies
 
 * **Languages**: Go (Expert), Python, Java, TypeScript
 * **Infrastructure**: Kubernetes, Docker, Terraform, Helm, Ansible
-* **Cloud/SRE**: AWS, GCP, Chaos Engineering, Observability (Prometheus/OpenTelemetry)
+* **Cloud/SRE**: AWS (EC2, Lambda), GCP, Chaos Engineering, Distributed Systems, Observability (Prometheus/OpenTelemetry)
 * **Certifications**: CKA (Kubernetes), PCA (Prometheus)
 
 ## Speaking & Honors
@@ -81,4 +87,4 @@ I am a fervent advocate for the "Cloud Native Way" and contribute to the project
 * **Website**: [rajdas.in](https://rajdas.in)
 
 ---
-*Last updated: February 2026*
+*Last updated: September 2026*
