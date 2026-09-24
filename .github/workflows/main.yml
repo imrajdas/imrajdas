@@ -47,7 +47,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://imrajdas.github.io/imrajdas/"
+            --baseURL "https://rajdas.in/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
