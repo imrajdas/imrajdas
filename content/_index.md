@@ -9,7 +9,7 @@ keywords: ["Raj Das", "Staff Software Engineer", "Cloud Native", "Kubernetes", "
 
 Welcome to my digital garden 🌱
 
-Staff Software Engineer at Harness | Distributed Systems, Kubernetes, and Platform Engineering
+Staff Software Engineer at Harness | Distributed Systems, Kubernetes, Platform Engineering, and SRE
 
 ---
 
