@@ -1,4 +1,5 @@
 baseURL: https://rajdas.in/
+relativeURLs: true
 languageCode: en-us
 title: Raj Das
 enableRobotsTXT: true
